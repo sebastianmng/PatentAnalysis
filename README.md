@@ -1,17 +1,5 @@
----
-title: "Searching for (Dis)Continuities in Ed Tech’s Discourse of Invention"
-author: "Sebastian Muñoz-Najar"
-date: "1/20/2020"
-output: 
-  md_document:
-    variant: markdown_github
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-#Searching for (Dis)Continuities in Ed Tech’s Discourse of Invention
+Searching for (Dis)Continuities in Ed Tech’s Discourse of Invention
+===================================================================
 
 This repository contains code associated with our talk,
 
@@ -21,6 +9,7 @@ Also, please cite:
 
 Rule, A., Cointet, J. P., & Bearman, P. S. (2015). [Lexical shifts, substantive changes, and continuity in State of the Union discourse, 1790–2014.](https://www.pnas.org/content/112/35/10837) *Proceedings of the National Academy of Sciences*, 112(35), 10837-10844.
 
-## In a nutshell
+In a nutshell
+-------------
 
-This is an R implementation of Rule et al. (2015) with additional metrics to describe a dynamic network of discursive categories. See the slides (above) or [video (12/5/19, 1:10:00)](https://www.textxd.org/2019/live/ ) of our talk for details.
+This is an R implementation of Rule et al. (2015) with additional metrics to describe a dynamic network of discursive categories. See the slides (above) or [video (12/5/19, 1:10:00)](https://www.textxd.org/2019/live/) of our talk for details.
